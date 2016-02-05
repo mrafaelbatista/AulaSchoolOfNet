@@ -11,4 +11,5 @@
 
 #PROJETO 2
 
-# 9) edicao do arquivo para subir no github 1 
+# 9) edicao do arquivo para subir no github 1
+# 10) edicao do arquivo para subir release 2
